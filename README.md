@@ -5,26 +5,32 @@ Bilgisayar Mühendisliği alanında eğitimime devam ederken; coğunlukla bilgis
 ### 🛠️ Teknoloji Yığınım ve Araçlar
 
 * **Sistem & Paralel Programlama:** C++, CUDA (v13.2), CMake
-* **Yapay Zeka & Bilgisayarlı Görü:** Python, OpenCV, YOLO, PyTorch
+* **Yapay Zeka & Bilgisayarlı Görü:** Python, OpenCV, YOLO, PyTorch, FFMpeg, OpenGL
 * **Otonomi & Simülasyon:** ArduPilot, MAVLink, Gazebo (Harmonic)
 * **Oyun Geliştirme:** C#, Unity, Java, LibGDX
-* **Geliştirme Ortamı:** Ubuntu Linux, CLion, Pycharm, IntelliJ IDEA, Rider, LaTeX, Conda, Tiled
-  
+* **Geliştirme Ortamı:** Ubuntu Linux, CLion, PyCharm, IntelliJ IDEA, Rider, LaTeX, Conda, Tiled
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" title="C++" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch" title="PyTorch" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" title="C++" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" title="C#" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java" style="margin-right: 10px; margin-bottom: 10px;" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV" title="OpenCV" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg" width="45" height="45" alt="ROS" title="ROS" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="45" height="45" alt="CMake" title="CMake" style="margin-right: 10px;" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="45" height="45" alt="Ubuntu" title="Ubuntu" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="45" height="45" alt="CLion" title="CLion" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA" title="IntelliJ IDEA" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" width="45" height="45" alt="Rider" title="Rider" style="margin-right: 10px;" />
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" width="45" height="45" alt="CUDA" title="CUDA" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" width="45" height="45" alt="OpenGL" title="OpenGL" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV" title="OpenCV" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch" title="PyTorch" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://cdn.simpleicons.org/ffmpeg/003366" width="45" height="45" alt="FFmpeg" title="FFmpeg" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="45" height="45" alt="Unity" title="Unity" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="45" height="45" alt="CMake" title="CMake" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" style="margin-right: 10px; margin-bottom: 10px;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="45" height="45" alt="Ubuntu" title="Ubuntu" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="45" height="45" alt="CLion" title="CLion" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="45" height="45" alt="PyCharm" title="PyCharm" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA" title="IntelliJ IDEA" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" width="45" height="45" alt="Rider" title="Rider" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="45" height="45" alt="Conda" title="Conda" style="margin-right: 10px; margin-bottom: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="45" height="45" alt="LaTeX" title="LaTeX" />
 </p>
 
