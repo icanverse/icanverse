@@ -42,11 +42,11 @@ Bilgisayar Mühendisliği alanında eğitimime devam ederken; coğunlukla bilgis
   * Çekirdek birleşimi (kernel fusion) ve dinamik VRAM bellek optimizasyonu teknikleri kullanarak geliştirdiğim, donanım hızlandırmalı açık kaynak görüntü işleme motoru. Bilgisayarlı görü ile başlayan bu projem bilgisayar grafikleri alanındanda da kendine özgü bir yer tutuyor.
   
 * **[Otonom İHA Simülasyon & Kontrol Modülü](https://github.com/icanverse/FlightControlSystem_forQuadcopter) 🛸** `Geliştirme Aşamasında` `Python` `ArduPilot` `Gazebo`
-  * Gazebo Harmonic ve SITL ortamları üzerinde, MAVLink protokolünü kullanarak gerçek zamanlı uçuş durumu yönetimi ve otonom rota takibi gerçekleştiren simülasyon altyapısı.
+  * Gazebo Harmonic, Issaac Sim ve SITL ortamları üzerinde, MAVLink protokolünü kullanarak gerçek zamanlı uçuş durumu yönetimi ve otonom rota takibi gerçekleştiren simülasyon altyapısı.
 
 * **[Never Fall](https://github.com/icanverse/NeverFall) 🎮** `Geliştirme Aşamasında` `Oyun Geliştirme`
   * Unity motoru kullanılarak çevrimiçi altyapılı rekabetçi 3D oyun.
-  * 
+    
 * **[Spark of Honor](#) 🎮** `Erken Erişim` `Oyun Geliştirme`
   * Performans ve optimizasyon odaklı, mekanikleri tamamlanmış ve erken erişim sürecine ulaştırılmış 2D piksel sanat tarzında platform oyunu.
  
